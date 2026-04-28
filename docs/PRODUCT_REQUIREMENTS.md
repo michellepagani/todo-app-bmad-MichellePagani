@@ -72,3 +72,17 @@ Enable efficient task management with a clean, accessible interface and reliable
 - Due dates or reminders
 - Collaborative features
 - Mobile app
+
+## User Stories
+
+### US-1: Create a Todo
+As a user, I want to add a new todo item with a description, so that I can keep track of tasks I need to complete.
+
+### US-2: View All Todos
+As a user, I want to see a list of all my todos, so that I have a complete view of my tasks.
+
+### US-3: Toggle Todo Completion
+As a user, I want to mark a todo as complete or incomplete, so that I can track my progress.
+
+### US-4: Delete a Todo
+As a user, I want to delete a todo I no longer need, so that my list stays focused on active tasks.
